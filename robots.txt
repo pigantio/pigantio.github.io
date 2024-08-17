@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pigantio.github.io/sitemap.html.gz
+Sitemap: https://pigantio.github.io/app/sitemap.html.gz
+Sitemap: https://pigantio.github.io/assets/sitemap.html.gz
+Sitemap: https://pigantio.github.io/css/sitemap.html.gz
+Sitemap: https://pigantio.github.io/includes/sitemap.html.gz
+Sitemap: https://pigantio.github.io/item/sitemap.html.gz
+Sitemap: https://pigantio.github.io/src/sitemap.html.gz
